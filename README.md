@@ -13,4 +13,4 @@ siga os seguinte passos:
     ~~~
     docker compose up
     ~~~
-  - se tudo se iniciou como esperado, ao rodar **localhost:8888** o servico do Druid deve ser iniciado o dashboard do druid deve aparecer em sua pagina web
+  - se tudo foi configurado como esperado, ao rodar **localhost:8888** o servico do Druid deve ser iniciado o dashboard do druid deve aparecer em sua pagina web
